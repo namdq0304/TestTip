@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-core-service" />
+        <module name="test-core-utils" />
+        <module name="Test3-web" />
+        <module name="test-core-data" />
+        <module name="test-core-service-impl" />
+        <module name="test-core-dao" />
+        <module name="test-core-commom" />
+        <module name="test-core-dto" />
+        <module name="test-core-persistence-data" />
+        <module name="test-web-logic" />
+        <module name="test-core-dao-impl" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
